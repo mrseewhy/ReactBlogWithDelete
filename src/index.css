@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.head{
+  text-align: center;
+  color: #fff;
+  padding: 30px;
+  background-color: black;
+}
+
+.post{
+  padding: 20px;
+  border: 1px solid #ccc;
+  
+}
+
+.post >p > button{
+  padding:10px;
+  color:white;
+  background-color: red;
+  float: right;
+  border: 0
+}
